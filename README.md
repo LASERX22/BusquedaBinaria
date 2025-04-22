@@ -1,7 +1,7 @@
 ## Practica autonoma Busqueda Binaria
-Autor: Joey Diaz
-Profesor: Ing. Juan Pablo Torres
-Asignatura: Estructura de Datos
+-- Autor: Joey Diaz
+-- Profesor: Ing. Juan Pablo Torres
+-- Asignatura: Estructura de Datos
 
 ## Explicacion del codigo
 El proyecto incluye un App que maneja el main, donde se recibe el arreglo de personas dependiendo de cuanto quiera agregar el usuario. Incluye un MetodoBurbuja que se encarga de ordenar el arreglo ingresado por el usuario para que sea facil a la hora de buscar mediante BusquedaBinaria que maneja el metodo de busqueda como tal y se encarga de mostrar el arreglo, el bajo, el alto y el dato central en la consola/terminal. Y el proyecto finalmente incluye un Persona que se encarga de los constructores respectivos, el metodo que retorna el nombre y la edad para la impresion, getters and setters.
